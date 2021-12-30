@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Robert William Moerman-Redding</title>
+    <link>https://mrmrob003.github.io/publication-type/2/</link>
+      <atom:link href="https://mrmrob003.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrmrob003.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://mrmrob003.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The Grassmannian for celestial superamplitudes</title>
+      <link>https://mrmrob003.github.io/publication/ferro2021dub/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/ferro2021dub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kleiss-Kuijf Relations from Momentum Amplituhedron Geometry</title>
+      <link>https://mrmrob003.github.io/publication/damgaard2021qbi/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/damgaard2021qbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momentum amplituhedron meets kinematic associahedron</title>
+      <link>https://mrmrob003.github.io/publication/damgaard2020eox/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/damgaard2020eox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strongly coupled heavy and light quark thermal motion from AdS/CFT</title>
+      <link>https://mrmrob003.github.io/publication/mes2020vgy/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/mes2020vgy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From momentum amplituhedron boundaries to amplitude singularities and back</title>
+      <link>https://mrmrob003.github.io/publication/ferro2020lgp/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/ferro2020lgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundaries of the amplituhedron with amplituhedronBoundaries</title>
+      <link>https://mrmrob003.github.io/publication/lukowski2020bya/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/lukowski2020bya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

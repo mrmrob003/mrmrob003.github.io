@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Robert William Moerman-Redding</title>
+    <link>https://mrmrob003.github.io/publication-type/3/</link>
+      <atom:link href="https://mrmrob003.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrmrob003.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://mrmrob003.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>On the geometry of the orthogonal momentum amplituhedron</title>
+      <link>https://mrmrob003.github.io/publication/lukowski2021fkf/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/lukowski2021fkf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grass trees and forests: Enumeration of Grassmannian trees and forests, with applications to the momentum amplituhedron</title>
+      <link>https://mrmrob003.github.io/publication/moerman2021cjg/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/moerman2021cjg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-classical recipe for wobbly limp noodles in partonic soup</title>
+      <link>https://mrmrob003.github.io/publication/moerman2016wpv/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/moerman2016wpv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Robert William Moerman-Redding</title>
+    <link>https://mrmrob003.github.io/event/</link>
+      <atom:link href="https://mrmrob003.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2021 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrmrob003.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mrmrob003.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Kleiss-Kuijf Relations from Momentum Amplituhedron Geometry</title>
+      <link>https://mrmrob003.github.io/talk/kleiss-kuijf-relations-from-momentum-amplituhedron-geometry/</link>
+      <pubDate>Thu, 10 Jun 2021 14:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/talk/kleiss-kuijf-relations-from-momentum-amplituhedron-geometry/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FTi10_tqnyE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Scattering Amplitudes from Positive Geometries</title>
+      <link>https://mrmrob003.github.io/talk/scattering-amplitudes-from-positive-geometries/</link>
+      <pubDate>Tue, 13 Apr 2021 10:35:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/talk/scattering-amplitudes-from-positive-geometries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
