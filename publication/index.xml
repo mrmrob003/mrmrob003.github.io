@@ -5,7 +5,7 @@
     <link>https://mrmrob003.github.io/publication/</link>
       <atom:link href="https://mrmrob003.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrmrob003.github.io/media/icon_hu3a30cd1b9b8bfbeb56ee9deb7c21be96_17725_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>On the geometry of the orthogonal momentum amplituhedron</title>
-      <link>https://mrmrob003.github.io/publication/lukowski2021fkf/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://mrmrob003.github.io/publication/lukowski2021fkf/</guid>
+      <title>Pushforwards via Scattering Equations with Applications to Positive Geometries</title>
+      <link>https://mrmrob003.github.io/publication/moerman2021cjg/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/moerman2021cjg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Grass trees and forests: Enumeration of Grassmannian trees and forests, with applications to the momentum amplituhedron</title>
-      <link>https://mrmrob003.github.io/publication/moerman2021cjg/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://mrmrob003.github.io/publication/moerman2021cjg/</guid>
+      <title>On the geometry of the orthogonal momentum amplituhedron</title>
+      <link>https://mrmrob003.github.io/publication/lukowski2021fkf/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/lukowski2021fkf/</guid>
       <description></description>
     </item>
     
@@ -73,6 +73,14 @@
       <link>https://mrmrob003.github.io/publication/lukowski2020bya/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://mrmrob003.github.io/publication/lukowski2020bya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundaries of the amplituhedron with amplituhedronBoundaries</title>
+      <link>https://mrmrob003.github.io/publication/lukowski2022fwz/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrmrob003.github.io/publication/lukowski2022fwz/</guid>
       <description></description>
     </item>
     
