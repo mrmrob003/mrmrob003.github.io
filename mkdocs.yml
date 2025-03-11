@@ -1,0 +1,43 @@
+site_name: Robert Moerman
+site_url: https://mrmrob003.github.io/
+theme:
+  name: material
+  features:
+    - navigation.tabs  # Adds the top navigation bar
+    - navigation.footer  # Adds a previous/next navigation at the bottom
+  palette:
+    scheme: default
+
+extra_css:
+  - overrides/stylesheets/extra.css
+  - "https://fonts.googleapis.com/icon?family=Material+Icons"
+
+
+nav:
+  - Home: index.md
+  - Notes: 
+    - notes/index.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+repo_url: https://github.com/mrmrob003/
+# edit_uri: edit/main/docs/
+
+extra:
+  generator: false 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mrmrob003
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/robert-william-moerman
+    - icon: fontawesome/brands/google
+      link: mailto:robert.william.moerman@gmail.com
