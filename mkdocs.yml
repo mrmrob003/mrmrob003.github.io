@@ -1,5 +1,6 @@
-site_name: Robert Moerman
+site_name: Robert Moerman's Documentation Site
 site_url: https://mrmrob003.github.io/
+
 theme:
   name: material
   features:
@@ -9,9 +10,12 @@ theme:
     scheme: default
 
 extra_css:
+  - overrides/stylesheets/mathjax.css
   - overrides/stylesheets/extra.css
   - "https://fonts.googleapis.com/icon?family=Material+Icons"
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
 
 nav:
   - Home: index.md
@@ -28,8 +32,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - footnotes
 
-repo_url: https://github.com/mrmrob003/
+plugins:
+  - search
+  - bibtex:
+      bib_file: docs/references.bib
+
+repo_url: https://github.com/mrmrob003
 # edit_uri: edit/main/docs/
 
 extra:
