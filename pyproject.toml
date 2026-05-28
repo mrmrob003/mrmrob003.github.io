@@ -1,0 +1,20 @@
+[project]
+name = "mrmrob003.github.io"
+version = "0.1.0"
+description = "Robert Moerman's homepage"
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "mypy",
+    "pre-commit",
+    "ruff",
+]
+
+docs = [
+    "mkdocs",
+    "mkdocs-material",
+    "pymdown-extensions",
+    "mkdocs-jupyter",
+    "mkdocs-bibtex",
+]
