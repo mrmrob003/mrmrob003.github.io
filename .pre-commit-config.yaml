@@ -1,0 +1,25 @@
+repos:
+  - repo: local
+    hooks:
+      - id: clear-notebook-output
+        name: Clear notebook outputs
+        entry: jupyter nbconvert
+        args:
+          [
+            --ClearOutputPreprocessor.enabled=True,
+            --inplace,
+          ]
+        language: system
+        files: \.ipynb$
+
+      - id: ruff
+        name: Ruff
+        entry: ruff check
+        language: system
+        types: [python, jupyter]
+
+      - id: ty
+        name: ty
+        entry: ty check
+        language: system
+        types: [python, jupyter]
