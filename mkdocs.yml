@@ -7,9 +7,11 @@ repo_url: https://github.com/mrmrob003/mrmrob003.github.io
 
 nav:
   - Home: index.md
+  - Quantitative Finance:
+      - MAANG Returns Analysis: notebooks/maang_returns_analysis.ipynb
 
 theme:
-  name: readthedocs
+  name: material
   palette:
     scheme: default
     toggle:
@@ -29,7 +31,7 @@ theme:
     - navigation.top
     - search.suggestions
     - search.highlight
-    - toc.integrate
+    # - toc.integrate
     - toc.follow
     - toc.sticky
     - toc.deep_linking
