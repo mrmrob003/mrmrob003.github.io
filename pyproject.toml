@@ -3,9 +3,11 @@ name = "mrmrob003.github.io"
 version = "0.1.0"
 description = "Robert Moerman's homepage"
 dependencies = [
-    "pandas",
+    "matplotlib",
     "numpy",
+    "pandas",
     "scipy",
+    "statsmodels",
     "yfinance",
 ]
 
