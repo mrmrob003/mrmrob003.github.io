@@ -16,10 +16,10 @@ repos:
         name: Ruff
         entry: ruff check
         language: system
-        types: [python, jupyter]
+        files: \.(py|ipynb)$
 
       - id: ty
         name: ty
         entry: ty check
         language: system
-        types: [python, jupyter]
+        files: \.(py|ipynb)$
